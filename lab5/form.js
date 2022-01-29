@@ -8,5 +8,5 @@ function display_alert(){
     const pincode = document.getElementById("pincode").value;
     
     alert(
-        "fname : "+fname+" \n lname : "+lname+" \n email : "+email+" \n enroll : "+enroll+" \n msg : "+msg+" \n state : "+state+" \n pincode : "+pincode+" \n Form Submmited sassyfully");
+        "fname : "+fname+" \n lname : "+lname+" \n email : "+email+" \n enroll : "+enroll+" \n msg : "+msg+" \n state : "+state+" \n pincode : "+pincode+" \n Details Saved");
 }
