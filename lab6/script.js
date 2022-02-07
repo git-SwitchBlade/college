@@ -26,5 +26,5 @@ function calc(a ,b){
 }
 
 hello();
-document.write(SUM());
+console.log(SUM());
 console.log(calc(5,6));
